@@ -70,3 +70,5 @@ Botunuz aktif olacaktır.
 ## DİKKAT!
 
 Botunuzu ve asistaninizi açtığınız log grubunda tam yetki vermezseniz ve sesli sohbeti açık bırakmazsanız çalışmaz!
+
+.
